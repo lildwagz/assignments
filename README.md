@@ -8,7 +8,7 @@ Tugas Kelompok Dasar - Dasar Pemrograman
  * Laode Achmed S. P. 10240013
  * Ammar Ichsan Anthonny 10240005
 
-#Timeline Report 
+## Timeline Report 
 ### 24 Oktober 2024
 * <a href="https://github.com/lildwagz/assignments/tree/main/KlinikGigi"> Tugas Klinik Gigi</a> Program Klinik Gigi dengan penerapan class, fuction, looping serta tipe dict sebagai database sementara
 

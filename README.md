@@ -10,6 +10,6 @@ Tugas Kelompok Dasar - Dasar Pemrograman
 
 #Timeline Report 
 ### 24 Oktober 2024
-* <a href="https://www.yourhomepage.com"> Tugas Klinik Gigi</a>
+* <a href="https://github.com/lildwagz/assignments/tree/main/KlinikGigi"> Tugas Klinik Gigi</a> Program Klinik Gigi dengan penerapan class, fuction, looping serta tipe dict sebagai database sementara
 
 

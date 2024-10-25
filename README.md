@@ -10,6 +10,6 @@ Tugas Kelompok Dasar - Dasar Pemrograman
 
 #Timeline Report 
 ### 24 Oktober 2024
-* Tugas Klinik Gigi <a href="https://www.yourhomepage.com"> </a>
+* <a href="https://www.yourhomepage.com"> Tugas Klinik Gigi</a>
 
 
